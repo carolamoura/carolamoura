@@ -1,4 +1,4 @@
-## Olá, eu sou a Carol Moura, Cientista da computação e estudante de Desenvolvimento Web!
+## Olá, eu sou a Carol Moura, Cientista da computação e Web Developer!
 <div align="center">
   <a href="https://github.com/carolamoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolamoura&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
